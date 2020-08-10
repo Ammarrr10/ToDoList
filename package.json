@@ -14,5 +14,13 @@
     "express": "^4.17.1",
     "require": "^2.4.20"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammarrr10/ToDoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ammarrr10/ToDoList/issues"
+  },
+  "homepage": "https://github.com/Ammarrr10/ToDoList#readme"
 }
